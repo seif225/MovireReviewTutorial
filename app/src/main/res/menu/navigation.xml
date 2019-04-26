@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/category_item"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Categories" />
+
+    <item
+        android:id="@+id/room_login"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="favorite" />
+
+    <item
+        android:id="@+id/register"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="settings" />
+
+</menu>
